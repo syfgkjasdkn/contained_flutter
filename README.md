@@ -1,8 +1,3 @@
-# map_and_flutter
+Example of how to interact with native maps from flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://github.com/syfgkjasdkn/map_and_flutter/blob/master/maps.gif" width="250">
